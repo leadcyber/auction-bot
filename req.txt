@@ -1,0 +1,9 @@
+Contract Action Taken By Chris L.
+Hello, I'm looking for a freelancer who can help me with my project. I need someone to build a timed auction feature on Telegram for me. The auction will focus on physical items, so the applicant must have experience working with physical items in the past. I'm also looking for applications that include a detailed project proposal so that I can better understand how the applicant plans to approach the project, as well as their timeline for completing it. Furthermore, I want the bidders to be authenticated as part of the process, so they can be thoroughly verified and their bids can be trusted. If this sounds like a project you're interested in, then I'd love to hear from you! Please include a comprehensive explanation of your experience in your application and a detailed breakdown of your proposed timeline for this project. Thank you for your time and I look forward to reviewing your proposal.
+
+Bot example: https://telegram.me/AstoneBot
+
+Source code: https://github.com/guglielmino/astone-bot
+
+ATimedAuctionBot 6425200574:AAFi-m0SwGpksfymld3hkSsKk2q4zzySo0Q
+http://t.me/ATimeAuctionBot

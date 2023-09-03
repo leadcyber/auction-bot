@@ -1,0 +1,25 @@
+version: '2'
+services:
+  mongo:
+    image: mongo
+    ports:
+      - "27017:27017"
+
+  redis:
+    image: redis
+    ports:
+      - "6379:6379"
+
+  bot:
+    build: .
+    links:
+        - mongo
+        - redis
+    ports:
+        - "9001:9001"
+
+
+#  data:
+#    image: tianon/true
+#    volume: /var/data
+
